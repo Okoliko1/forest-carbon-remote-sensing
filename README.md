@@ -19,7 +19,7 @@ It also includes carbon credit estimation logic aligned with REDD+ methodology c
 ## Sample Outputs
 
 ### Change Detection
-![Change Detection](change_detection.png)
+![Change Detection](images/change_detection.png)
 
 
 
