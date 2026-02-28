@@ -18,17 +18,9 @@ It also includes carbon credit estimation logic aligned with REDD+ methodology c
 
 ## Sample Outputs
 
-### NDVI Map
-![NDVI Map](vi_maps.png)
-
-### Carbon Stock Map
-![Carbon Stock](carbon_stock_maps.png)
-
 ### Change Detection
 ![Change Detection](change_detection.png)
 
-### Biodiversity Analysis
-![Biodiversity](biodiversity_analysis.png)
 
 
 ## How to Run
